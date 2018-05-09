@@ -18,3 +18,5 @@ We can see that even at 0.995 proportion of the dominant class in the training d
 
 <img src="proportion_experiments.png" width="400" />
 
+### Acknowledgements
+Adrien Ecoffet: https://github.com/AdrienLE
